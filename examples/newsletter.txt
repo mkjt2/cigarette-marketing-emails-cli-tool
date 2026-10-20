@@ -1,0 +1,13 @@
+Subject: This week's product news
+
+Hi {FULL_NAME},
+
+Here's what's new this week:
+
+- New product line arriving in stores
+- Updated packaging across the range
+
+You're receiving this because you subscribed to our weekly newsletter.
+To unsubscribe, reply with "unsubscribe".
+
+Must be of legal age to purchase tobacco products.
